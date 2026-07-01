@@ -31,12 +31,12 @@ git --version
  
 ### Step 2: Download the Tool to Your Computer
 * Open your internet browser and go to project's GitHub webpage
-[Google_scrapper_python](https://github.com/shreyaz7198/Google_scrapper_python)
+[Google_scrapper_python](https://github.com/shreyaz7198/Google_scrapper_Selenium)
 * Click the green Code button and copy the web address link shown there.
 * Open the Terminal app (if you use a Mac) or the Command Prompt / PowerShell app (if you use Windows).
 * Type this command, then press Enter on your keyboard to copy the files to your computer:
 ```bash
-git clone https://github.com/shreyaz7198/Google_scrapper_python.git
+git clone https://github.com/shreyaz7198/Google_scrapper_Selenium.git
 ```
 * Move your terminal inside the newly downloaded folder by typing:
 ```bash
